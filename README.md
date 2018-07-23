@@ -11,7 +11,7 @@ Because you're a legit programmer, you know the most efficient way is to navigat
 As a refresher, here's a list of commands to help you with this task:
 
 `pwd` print working directory - shows you where you are
-
+Your path is missing /usr/local/bin, you need to add this to use this installer.
 `cd ..` change your current directory to the parent (one above it)
 
 `ls` list all files and directories
